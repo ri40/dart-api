@@ -1,8 +1,6 @@
 import 'dart:convert';
 import 'package:shelf/shelf.dart';
 import 'package:shelf_router/shelf_router.dart';
-import 'package:supabase/supabase.dart';
-import '../.env/.ConstFile.dart.dart';
 import '../../Services/supbase/auth/AuthSubBase.dart';
 import 'DataBase/supbase_database.dart';
 

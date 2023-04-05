@@ -1,5 +1,4 @@
 import 'package:supabase/supabase.dart';
-
 import '../../.env/.ConstFile.dart.dart';
 
 class SupbaseDataBase {
